@@ -162,7 +162,7 @@
     "DomainValidationOptionList": {
       "base": null,
       "refs": {
-        "RequestCertificateRequest$DomainValidationOptions": "<p>The domain name that you want ACM to use to send you emails so taht your can validate domain ownership.</p>"
+        "RequestCertificateRequest$DomainValidationOptions": "<p>The domain name that you want ACM to use to send you emails so that you can validate domain ownership.</p>"
       }
     },
     "ExtendedKeyUsage": {
